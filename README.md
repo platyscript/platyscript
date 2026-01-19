@@ -1,6 +1,6 @@
 - ❤️ Shipping software.
 - 📫 [platyscript.com](https://platyscript.com)
-- 📧[platyscript@gmail.com](mailto:platyscrip@gmail.com)
+- 📧 [platyscript@gmail.com](mailto:platyscrip@gmail.com)
 
 <!--
 **tremorscript/tremorscript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
